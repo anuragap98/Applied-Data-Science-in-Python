@@ -1,5 +1,4 @@
-# Data-Science-on-Python
-Data Science Specialization
+### Data Science Specialization in Python 
 
 These are the course materials of University of Michigan for Applied Data Science with Python Specialization on Coursera.
 
